@@ -1,0 +1,10 @@
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\obj\Debug\net48\MedicalAppointmentApp.csproj.AssemblyReference.cache
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\obj\Debug\net48\MedicalAppointmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\obj\Debug\net48\MedicalAppointmentApp.AssemblyInfoInputs.cache
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\obj\Debug\net48\MedicalAppointmentApp.AssemblyInfo.cs
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\obj\Debug\net48\MedicalAppointmentApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\bin\Debug\net48\MedicalAppointmentApp.exe.config
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\bin\Debug\net48\MedicalAppointmentApp.exe
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\bin\Debug\net48\MedicalAppointmentApp.pdb
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\obj\Debug\net48\MedicalAppointmentApp.exe
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\MedicalAppointmentApp\obj\Debug\net48\MedicalAppointmentApp.pdb

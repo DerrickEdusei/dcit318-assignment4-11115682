@@ -1,0 +1,10 @@
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\obj\Debug\net48\PharmacyInventoryApp.csproj.AssemblyReference.cache
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\obj\Debug\net48\PharmacyInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\obj\Debug\net48\PharmacyInventoryApp.AssemblyInfoInputs.cache
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\obj\Debug\net48\PharmacyInventoryApp.AssemblyInfo.cs
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\obj\Debug\net48\PharmacyInventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\bin\Debug\net48\PharmacyInventoryApp.exe.config
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\bin\Debug\net48\PharmacyInventoryApp.exe
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\bin\Debug\net48\PharmacyInventoryApp.pdb
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\obj\Debug\net48\PharmacyInventoryApp.exe
+C:\Users\HP\Elorm\Desktop\dcit318-assignment4-11117540\PharmacyInventoryApp\obj\Debug\net48\PharmacyInventoryApp.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net48</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>MedicalAppointmentApp</RootNamespace>
+    <AssemblyName>MedicalAppointmentApp</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+	  <Reference Include="System.Configuration" />
+  </ItemGroup>
+</Project>
